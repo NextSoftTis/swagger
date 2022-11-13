@@ -1,4 +1,5 @@
 {
+	"swagger": "2.0",	
 	"info": {
 		"title": "Qucit Authentication Management API",
 		"description": "This part of the qAuth API will deal with user handling for all the\nQucit Platform. These resources will be part of the global qAuth API.\n",
